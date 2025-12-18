@@ -5,15 +5,17 @@ public class TriangleArea {
      Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter base in inches: ");
-         double base = sc.nextDouble();
+       double  base = sc.nextDouble();
 
         System.out.print("Enter height in inches: ");
         double height = sc.nextDouble();
 
-        double areaSqInches = 0.5 * base * height;
-        double areaSqCm = areaSqInches * 6.4516; // 1 sq inch = 6.4516 sq cm
+        // Calculate area
+        double areaInSqInches = 0.5 * base * height;
+        double areaInSqCm = areaInSqInches * 6.4516; // 1 square inch = 6.4516 square cm
 
-        System.out.println("Area of triangle is " + areaSqInches +
-                " square inches and " + areaSqCm + " square centimeters");
+        System.out.println("Your Height in cm is " + areaInSqCm +
+                " while in feet is " + areaInSqInches +
+                " and inches is " + areaInSqCm);
     }
 }
