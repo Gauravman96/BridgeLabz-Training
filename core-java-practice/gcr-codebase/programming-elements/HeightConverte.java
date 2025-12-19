@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class HeightConverte {
     public static void main(String[] args) {
-         Scanner input = new Scanner(System.in);
+         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter your height in centimeters: ");
-         double heightCm = input.nextDouble();
+        System.out.print("Enter your height in centimeters");
+         double heightCm = sc.nextDouble();
 
         // Convert cm to inches
          double totalInches = heightCm / 2.54;

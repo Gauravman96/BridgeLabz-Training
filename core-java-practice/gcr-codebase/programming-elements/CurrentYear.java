@@ -1,4 +1,4 @@
-public class Question11 {
+public class CurrentYear {
     public static void main(String[] args) {
         int birthyear= 2000;
         int currentyear= 2024;
