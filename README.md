@@ -1,5 +1,5 @@
 # BridgeLabz-Training
-
+```text
 📁 Project Folder Structure
 BRIDGELABZ-TRAINING
 │
@@ -14,7 +14,7 @@ BRIDGELABZ-TRAINING
 │
 ├── .gitignore
 └── README.md
-
+```
 ## 📅 Week 1 – Day 1
 ### 📘 Programming Elements
 
