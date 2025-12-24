@@ -16,72 +16,24 @@ BRIDGELABZ-TRAINING
 └── README.md
 
 ## 📅 Week 1 – Day 1
-### 📘 Programming Elements
+### 📘 Programming Elements 
 
-- AddTwoNumber.java
-- BasicCalculator.java
-- CalculateMarks.java
-- CelsiusToFahrenheit.java
-- CurrentYear.java
-- DiscountCalc.java
-- DistanceKm.java
-- DoubleOpt.java
-- EarthVolume.java
-- FeetToYardsMiles.java
-- Handshakes.java
-- HeightConverter.java
-- IntOperation.java
-- PenDistribution.java
-- PowerCalculation.java
-- ProfitAndLoss.java
-- PurchasePrice.java
-- QuotRem.java
-- SimpleInterest.java
-- SideOfSquare.java
-- StudentFeeDiscount.java
-- TriangleArea.java
-- VolumeOfCylinder.java
-- WelcomeToBridgelabz.java
+AddTwoNumber.java, BasicCalculator.java, CalculateMarks.java, CelsiusToFahrenheit.java, CurrentYear.java, DiscountCalc.java, DistanceKm.java, DoubleOpt.java, EarthVolume.java, FeetToYardsMiles.java, Handshakes.java, HeightConverter.java, IntOperation.java, PenDistribution.java, PowerCalculation.java, ProfitAndLoss.java, PurchasePrice.java, QuotRem.java, SimpleInterest.java, SideOfSquare.java, StudentFeeDiscount.java, TriangleArea.java, VolumeOfCylinder.java, WelcomeToBridgelabz.java
 
 📅 Day 2: Control Flow in Java
 DONE Level 1, Level 2, Level 3
 
--AbundantNumber.java
--AllTheMultiples.java
-AllTheMultiplesWhile.java
-ArmstrongNumberCheck.java
-BMI.java
-CheckNumber.java
-CountDigits.java
-DayOfWeight.java
-DivideByFive.java
-EmployeesBonus.java
-Factor.java
-FactorWhile.java
-FactorialFor.java
-FactorialWhile.java
-FizzBuzz.java
-FizzBuzzWhile.java
-GradeCalculator.java
-GreatestFactor.java
-GreatestFactorWhile.java
-HarshadNumber.java
-LargestCheck.java
-LeapYearLogical.java
-LeapYearMultiIf.java
-MultiplicationTable.java
-NaturalNumbersSum.java
-NaturalNumbersSumByFor.java
-NaturalNumbersSumCheck.java
-OddAndEven.java
-Power.java
-PowerWhile.java
-PrimeCheck.java
-RocketCountdownFor.java
-RocketCountdownWhile.java
-SmallestCheck.java
-SpringSeason.java
-SumUntilZero.java
-SumUntilZeroOrNegative.java
-VoteEligibility.java
-YoungestAndTallest.java
+AbundantNumber.java, AllTheMultiples.java, AllTheMultiplesWhile.java, ArmstrongNumberCheck.java, BMI.java, CheckNumber.java, CountDigits.java, DayOfWeight.java, DivideByFive.java, EmployeesBonus.java, Factor.java, FactorWhile.java, FactorialFor.java, FactorialWhile.java, FizzBuzz.java, FizzBuzzWhile.java, GradeCalculator.java, GreatestFactor.java, GreatestFactorWhile.java, HarshadNumber.java, LargestCheck.java, LeapYearLogical.java, LeapYearMultiIf.java, MultiplicationTable.java, NaturalNumbersSum.java, NaturalNumbersSumByFor.java, NaturalNumbersSumCheck.java, OddAndEven.java, Power.java, PowerWhile.java, PrimeCheck.java, RocketCountdownFor.java, RocketCountdownWhile.java, SmallestCheck.java, SpringSeason.java, SumUntilZero.java, SumUntilZeroOrNegative.java, VoteEligibility.java, YoungestAndTallest.java
+
+ *🗓️ 20-Dec-2025 (Saturday):* [Check here](https://github.com/Gauravman96/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
+   
+    Completed and Push all the levels of arrays Questions into the "core-java-practice" BRANCH.
+    Updated the Readme files for the previous days.
+		   +-- gcr-codebase/
+		   |   |
+		   |   +-- programming-elements/
+		   |   |
+		   |   +-- control-flow/
+		   |   |
+		   |   +-- arrays/
+## 📌 Week 2  More on Java Practice Questions
