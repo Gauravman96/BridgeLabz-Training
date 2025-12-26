@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 class OTP {
 
     public static int generateOtp() {
