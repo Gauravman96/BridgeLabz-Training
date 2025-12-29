@@ -80,3 +80,8 @@ AbundantNumber.java, AllTheMultiples.java, AllTheMultiplesWhile.java, ArmstrongN
 	✅ **Extras Given on 25th December (Strings) — Completed and Pushed to GitHub**
 
 ```
+
+🗓️ 29-Dec-2025 (Monday): [Extras program](https://github.com/Gauravman96/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras) --[Scanerio Based](https://github.com/Gauravman96/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+```
+EXTRAS - Built-In Function Practice Problem solved and completed and pushed to the GitHub today.
+Also completed the scenario-based tasks and pushed to github .
