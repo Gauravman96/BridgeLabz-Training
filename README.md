@@ -85,3 +85,8 @@ AbundantNumber.java, AllTheMultiples.java, AllTheMultiplesWhile.java, ArmstrongN
 ```
 EXTRAS - Built-In Function Practice Problem solved and completed and pushed to the GitHub today.
 Also completed the scenario-based tasks and pushed to github .
+```
+ 
+🗓️ 30-Dec-2025 (Tuesday): [Scanerio Based](https://github.com/Gauravman96/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+```
+Completed the scenario-based tasks("Line Comparison Computation Program") and pushed to github .
