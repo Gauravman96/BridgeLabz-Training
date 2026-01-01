@@ -90,3 +90,22 @@ Also completed the scenario-based tasks and pushed to github .
 🗓️ 30-Dec-2025 (Tuesday): [Scanerio Based](https://github.com/Gauravman96/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 ```
 Completed the scenario-based tasks("Line Comparison Computation Program") and pushed to github .
+```
+🗓️ 31-Dec-2025 (Wednesday): [Github Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/Constructors_Variables)
+
+```
+ BridgeLabz-Training/
+          +-- core-java-practice/
+          +-- oops-practice/
+
+    Created new branch of oops-practice and performed Level 1 Level 2 of Class and Object questions in it. also Pushed the constructors based questions
+Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts completed
+```
+🗓️ 01-Jan-2026 (Wednesday):[Github Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/KeywordsAndOperators)
+```
+Created a new folder of Keywords_Operators and 
+Submission of this, static, final key words and instanceof operator Level 1 Lab Practice  completed .
+Also, completed a Scanario based questions in oops-practice folder and branch 
+```
+
+
