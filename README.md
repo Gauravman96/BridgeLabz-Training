@@ -53,6 +53,7 @@ AbundantNumber.java, AllTheMultiples.java, AllTheMultiplesWhile.java, ArmstrongN
 		   |   +-- control-flow/
 		   |   |
 		   |   +-- arrays/
+           
 ## 📌 Week 2  More on Java Practice Questions
 
 🗓️ 22-Dec-2025 (Monday): [Check here](https://github.com/Gauravman96/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string)
@@ -101,11 +102,25 @@ Completed the scenario-based tasks("Line Comparison Computation Program") and pu
     Created new branch of oops-practice and performed Level 1 Level 2 of Class and Object questions in it. also Pushed the constructors based questions
 Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts completed
 ```
-🗓️ 01-Jan-2026 (Wednesday):[Github Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/KeywordsAndOperators)
+🗓️ 01-Jan-2026 (Thrusday):[Github Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/KeywordsAndOperators)
 ```
 Created a new folder of Keywords_Operators and 
 Submission of this, static, final key words and instanceof operator Level 1 Lab Practice  completed .
 Also, completed a Scanario based questions in oops-practice folder and branch 
 ```
+🗓️ 02-Jan-2026 (Friday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/ObjectOrientedDesign)
 
+```
+ completed and Submission of Object Oriented Design Principles and some scanario based program done.
+ ```
 
+🗓️ 03-Jan-2026 (Saturday):[GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/Inheritance)
+```
+ practiced and Submission of Inheritance to the github on oops branch in inheritance folder Also do some Scanario based questions.
+
+```
+🗓️ 05-Jan-2026 (Monday):[GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/Polymorphism)
+```
+ practiced and Submission of Encapsulation, Polymorphism, Interface and Abstract Class to the github on oops branch in Polymorphism folder.
+
+ ```
