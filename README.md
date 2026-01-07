@@ -124,3 +124,13 @@ Also, completed a Scanario based questions in oops-practice folder and branch
  practiced and Submission of Encapsulation, Polymorphism, Interface and Abstract Class to the github on oops branch in Polymorphism folder.
 
  ```
+ 🗓️ 06-Jan-2026 (Tuesday);[Github Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+ ```
+ Submission of Encapsulation, Polymorphism, Interface and Abstract Class and do some scanario based like Student Score Analyzer,Invoice Generator for Freelancers and pushed to github.
+```
+🗓️ 07-Jan-2026 (Wednesday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+```
+ Learned a Data Structure Introduction and LinkedList and doing some Scanario based questions and pushed to github.
+
+ ```
