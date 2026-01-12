@@ -4,7 +4,6 @@ class InvalidInvoiceFormatException extends Exception {
     }
 }
 
-
 public class InvoiceGenerator {
 
     // Parse Invoice String
