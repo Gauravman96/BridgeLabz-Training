@@ -128,9 +128,27 @@ Also, completed a Scanario based questions in oops-practice folder and branch
  ```
  Submission of Encapsulation, Polymorphism, Interface and Abstract Class and do some scanario based like Student Score Analyzer,Invoice Generator for Freelancers and pushed to github.
 ```
+
+## 📌 Week 3 : Data Structure And Algorithm 
 🗓️ 07-Jan-2026 (Wednesday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
-```
- Learned a Data Structure Introduction and LinkedList and doing some Scanario based questions and pushed to github.
-
  ```
+ Learned a Data Structure Introduction and LinkedList and doing some Scanario based questions and pushed to github.
+ ```
+🗓️ 08-Jan-2026 (Thursday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)
+ ```
+ Submission of Data Structure - LinkedList -Single Linked List -Double Linked List-Circular  Linked List
+ ```
+🗓️ 09-Jan-2026 (Friday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+```
+ Learned a Stack , Queue, HashMap and Hashing Function and some Scanario based problem solved like Hospital Patient Management System (CRUD), Vehicle Rental Application (CRUD)
+ ```
+
+ 🗓️ 12-Jan-2026 (Monday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+ ```
+ completed some Scenario Based OOPs problem and pushed and submit to github 
+ ```
+🗓️ 13-Jan-2026 (Tuesday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+```
+completed some Scenario Based OOPs problem and pushed and submit to github 
+```
