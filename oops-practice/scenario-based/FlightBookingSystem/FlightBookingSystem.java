@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class FlightBookingSystem {
 
     // Array to store available flights
@@ -14,7 +13,7 @@ public class FlightBookingSystem {
     static List<Booking> bookings = new ArrayList<>();
     static int bookingCounter = 1;
 
-    // 🔍 Search Flights
+    // Search Flights
     public static void searchFlights(String source, String destination) {
         boolean found = false;
 
@@ -31,7 +30,7 @@ public class FlightBookingSystem {
         }
     }
 
-    // 📌 Book Flight
+    //Book Flight
     public static void bookFlight(int flightId, String passengerName) {
         for (Flight f : flights) {
             if (f.flightId == flightId) {
@@ -44,7 +43,7 @@ public class FlightBookingSystem {
         System.out.println("Invalid Flight ID!");
     }
 
-    // 📄 View Bookings
+    //View Bookings
     public static void viewBookings() {
         if (bookings.isEmpty()) {
             System.out.println("No bookings found.");
@@ -56,7 +55,7 @@ public class FlightBookingSystem {
         }
     }
 
-    // 🚀 Main Method
+    //Main Method
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -93,11 +92,11 @@ public class FlightBookingSystem {
                     break;
 
                 case 4:
-                    System.out.println("Thank you!");
+                    System.out.println("Thank you");
                     return;
 
                 default:
-                    System.out.println("Invalid choice!");
+                    System.out.println("Invalid choice");
             }
         }
     }
