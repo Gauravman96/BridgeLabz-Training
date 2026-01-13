@@ -1,15 +1,18 @@
-class Doctor {
-    private int doctorId;
-    private String name;
-    private String specialization;
+class Doctor extends Person {
 
-    public Doctor(int doctorId, String name, String specialization) {
-        this.doctorId = doctorId;
-        this.name = name;
+    String specialization;
+
+    public Doctor( int id, String name,String specialization) {
+        super(id, name);
         this.specialization = specialization;
     }
 
-    public String getName() {
-        return name;
+
+    // polymorphism behavior
+
+    double calculateConsultationFee() {
+        return 500; // default
     }
+    
+    
 }

@@ -1,29 +1,13 @@
-public abstract class Patient {
-   private int patientId;
-   private String name;
-   private int age;
-   private Doctor doctor;
+class Patient extends Person {
+      String disease;
+      String medicalHistory;
 
-    public Patient(int patientId,String name, int age, Doctor doctor ) {   
-           this.patientId = patientId;
-        this.name = name;
-        this.age = age;
-        this.doctor = doctor;
+    public Patient(int id, String name, String disease, String medicalHistory) {
+        super(id, name);
+        this.disease= disease;
+        this.medicalHistory= medicalHistory;
     }
 
-    public int getPatientId(){
-        return patientId;
-    }
 
-     public String getName() {
-        return name;
-    }
-
-    public Doctor getDoctor() {
-        return doctor;
-    }
-
-    // polymorphism
-    public abstract  void displayInfo();
-
+    
 }
