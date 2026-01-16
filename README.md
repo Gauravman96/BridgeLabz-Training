@@ -152,3 +152,19 @@ Also, completed a Scanario based questions in oops-practice folder and branch
 ```
 completed some Scenario Based OOPs problem and pushed and submit to github 
 ```
+🗓️ 14-Jan-2026 (Wednesday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/SortingAlgorithm)
+```
+Doing all  Sorting Algorithms (Bubble Sort,Insertion Sort,Merge Sort, and Quick Sort)  in dsa-practice brandh and pushed to github.
+```
+🗓️ 15-Jan-2026 (Thursday):
+```
+Learned a Linear and Binary Search and also learned about flow of 4-Layer Architecture in Java -
+1️⃣ Presentation Layer
+2️⃣ Service Layer
+3️⃣ DAO Layer (Data Access Object)
+4️⃣ Model Layer
+```
+🗓️ 16-Jan-2026 (Friday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/SortingAlgorithm)
+```
+ Submission of Sorting Algorithm and pushed to github
+```
