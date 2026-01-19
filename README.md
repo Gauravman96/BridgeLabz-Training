@@ -92,6 +92,8 @@ Also completed the scenario-based tasks and pushed to github .
 ```
 Completed the scenario-based tasks("Line Comparison Computation Program") and pushed to github .
 ```
+## 📌 Object-Oriented Programming
+ 
 🗓️ 31-Dec-2025 (Wednesday): [Github Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/Constructors_Variables)
 
 ```
@@ -167,4 +169,13 @@ Learned a Linear and Binary Search and also learned about flow of 4-Layer Archit
 🗓️ 16-Jan-2026 (Friday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/SortingAlgorithm)
 ```
  Submission of Sorting Algorithm and pushed to github
+```
+🗓️ 17-Jan-2026 (Saturday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/StringOperation)
+
+```
+Learn and Submission of Linear and Binary Search to github
+```
+🗓️ 19-Jan-2026 (Monday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/RuntimeAnalysis%26BigONotation)
+```
+Learn and Submission of Algorithm's Runtime Analysis & Big-O Notation to github
 ```
