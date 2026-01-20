@@ -177,5 +177,9 @@ Learn and Submission of Linear and Binary Search to github
 ```
 🗓️ 19-Jan-2026 (Monday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/RuntimeAnalysis%26BigONotation)
 ```
-Learn and Submission of Algorithm's Runtime Analysis & Big-O Notation to github
+Learned and Submission of Algorithm's Runtime Analysis & Big-O Notation to github
 ```
+🗓️ 20-Jan-2026 (Tuesday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
+```
+Learned and Submission of scenario based problems like "Movie Schedule Manager","Delivery Chain Management ",
+"ExamProctor – Online Exam Review System" and pushed to github
