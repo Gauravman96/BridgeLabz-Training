@@ -184,6 +184,8 @@ Learned and Submission of Algorithm's Runtime Analysis & Big-O Notation to githu
 Learned and Submission of scenario based problems like "Movie Schedule Manager","Delivery Chain Management ",
 "ExamProctor – Online Exam Review System" and pushed to github
 ```
+## 📌 Week 04 : Java Collections, Streams
+
 🗓️ 21-Jan-2026 (Wednesday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)
 ```
 learned a generics and  Submission of Java Generics and pushed to github
@@ -192,3 +194,13 @@ learned a generics and  Submission of Java Generics and pushed to github
 ```
 Learned a collection framework and submission of collection framework(Set, List, Queue) and Map
 ```
+🗓️ 23-Jan-2026 (Friday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)
+```
+Learned about a java Streams Java I/O Streams
+Types of Streams and submission to github .
+```
+🗓️ 27-Jan-2026 (Friday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/Exceptions)
+```
+Read and learned about Exceptions handling  and Submission of Exceptions handling programs in github
+````
+
