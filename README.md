@@ -199,8 +199,22 @@ Learned a collection framework and submission of collection framework(Set, List,
 Learned about a java Streams Java I/O Streams
 Types of Streams and submission to github .
 ```
-🗓️ 27-Jan-2026 (Friday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/Exceptions)
+🗓️ 27-Jan-2026 (Tuesday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/Exceptions)
 ```
 Read and learned about Exceptions handling  and Submission of Exceptions handling programs in github
 ````
+🗓️ 28-Jan-2026 (Wednesday):
+```
+Learned about a regex and Junit
+```
+🗓️ 29-Jan-2026 (Thursday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/Regex)
+```
+ learned and Submission of Regex(Regular Expression) on github
+ ```
+🗓️ 30-Jan-2026 (Friday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/junit-practice)
+```
+ Submission of JUnit and  scanerio based Lexical Twist problem on github
+ ```
+
+
 
