@@ -1,0 +1,22 @@
+package com.example;
+
+import java.util.List;
+
+public class ListManager {
+
+    // Add element to list
+    public void addElement(List<Integer> list, int element) {
+        list.add(element);
+    }
+
+    // Remove element from list
+    public void removeElement(List<Integer> list, int element) {
+        list.remove(Integer.valueOf(element)); 
+        // Integer.valueOf is IMPORTANT (remove by value, not index)
+    }
+
+    
+    public int getSize(List<Integer> list) {
+        return list.size();
+    }
+}
