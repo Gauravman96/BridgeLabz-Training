@@ -2,7 +2,7 @@
 
  Week 1 Getting Started with JAVA
 
-🗓️ 17-Dec-2025 (Wednesday): 
+🗓️ 17-Dec-2025 (Wednesday):
 
 Installed and set up Of JAVA & Eclipse. Generated the Project Structure on GitHub.
 ```text
@@ -193,7 +193,9 @@ learned a generics and  Submission of Java Generics and pushed to github
 🗓️ 22-Jan-2026 (Thursday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/Collections)
 ```
 Learned a collection framework and submission of collection framework(Set, List, Queue) and Map
+
 ```
+## 📌 Week 05 : IO Programming
 🗓️ 23-Jan-2026 (Friday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)
 ```
 Learned about a java Streams Java I/O Streams
@@ -215,6 +217,44 @@ Learned about a regex and Junit
 ```
  Submission of JUnit and  scanerio based Lexical Twist problem on github
  ```
+
+🗓️ 02-Fab-2026 (Monday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/lambda-functions)
+```
+Solved a AeroVigil Problem and learned and  Submission of Lambda Expressions
+```
+ ## 📌 Week 06 - Java 8 & its Features
+🗓️ 03-Fab-2026 (Tuesday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/streamAPI)
+```
+Learned Stream API and Submission of Stream API
+```
+🗓️ 04-Fab-2026 (Wednesday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/collectors)
+```
+ learned about Collectors and Submission of Collectors to github and also solved Factory Robot Hazard Analyzer
+ ```
+##  📌Week 07 - Solution Designing
+🗓️ 05-Fab-2026 (Thursday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/design-patterns-practice/design-patterns-practice/gcr-practice/LibraryManagementSystem)
+```
+ learned about Design Patterns and Submission on Design Patterns on github
+```
+
+## 📌 Week 08 : Multi treading
+🗓️ 06-Fab-2026 (Friday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/multithreading-practice/multithreading-practice/gcr-codebase)
+```
+ Learned about multi-threading  and  practices about SonarQube problem and  Submission of Multi-Threading in Java on github
+ ```
+🗓️ 07-Fab-2026 (Saturday):
+```
+Solved a OceanFleet problem and solved some Scanerio based Online Auction Bidding System
+
+```
+## 📌 Week 09 :  JDBC & DBMS
+🗓️ 09-Fab-2026 (Monday): [GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/JDBC-DBMS/JDBC-DBMS/gcr-codebase/HealthClinicApp)
+```
+  Learned about  java database connectivity and Submission of JDBC & DBMS
+  ```
+  
+
+
 
 
 
