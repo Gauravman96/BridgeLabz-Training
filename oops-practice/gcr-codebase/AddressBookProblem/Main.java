@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Welcome to Address Book Program");
         Contact contact1 = new Contact("Gaurav", "Mangal", "gla", "Mathura", "UP", "281406", "96687xxxxx", "gaurav123@gmail.com");
         Contact contact2 = new Contact("Abhay", "pratap", "gla", "Agra", "UP", "281006", "96237xxxxx", "abhay123@gmail.com");
+        Contact contact3 = new Contact("rahul", "pratap", "gla", "noida", "UP", "300122", "87737xxxxx", "rahul123@gmail.com");
         AddNewContact addContact = new AddNewContact(contact1);
 
         addContact.addContact();
