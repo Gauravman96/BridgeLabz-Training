@@ -252,7 +252,50 @@ Solved a OceanFleet problem and solved some Scanerio based Online Auction Biddin
 ```
   Learned about  java database connectivity and Submission of JDBC & DBMS
   ```
-  
+🗓️ 10-feb-2026 (Tuesday):[GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/JDBC-DBMS/JDBC-DBMS)
+```
+Solved and pushed design patterns problems + M1 Mock Examination Written
+```
+🗓️ 12-feb-2026 (Thrusday):[GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/oops-practice)
+```
+Solved a Scenario based question like " Smart Parking Slot Allocation System"
+```
+🗓️ 14-feb-2026 (Saturday):[GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+```
+solved a Mini Project Assignment:
+Online Course Enrollment Manager (Java 8)
+```
+🗓️ 16-feb-2026 (Monday):[GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+```
+Solved Employee Wage Computation Problem and pushed to github
+```
+
+## 📌 Quantity Measurement App
+
+🗓️ 17-feb-2026 (Tuesday):
+```
+Intro to Quantity Measurement App
+```
+🗓️ 18-feb-2026 (Wednesday):[Github Link](https://github.com/Gauravman96/QuantityMeasurementApp)
+```
+Solved Feet Measurement Quality (feature/UC1 -FeetMeasurementEquality)
+```
+🗓️ 19-feb-2026 (Thursday):[Github Link](https://github.com/Gauravman96/QuantityMeasurementApp)
+```
+Generic Quantity Class for DRY Principle
+(feature/UC3-GenericQuantityClassForDRYPrinciple)
+Extended Unit Support
+(feature/UC4-Extended Unit Support)
+```
+ 🗓️ 19-feb-2026 (Friday):[GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/oops-practice/oops-practice)
+ ```
+solved a scenario based probelm" Smart Traffic Fine Collection System"
+```
+🗓️ 21-feb-2026 (Saturday):[Github Link]()
+```
+solved some Scenario and posted a Weight Measurement
+(feature/UC9-Weight-Measurement)"
+```
 
 
 
