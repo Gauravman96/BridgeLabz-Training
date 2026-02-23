@@ -270,33 +270,6 @@ Online Course Enrollment Manager (Java 8)
 Solved Employee Wage Computation Problem and pushed to github
 ```
 
-## 📌 Quantity Measurement App
-
-🗓️ 17-feb-2026 (Tuesday):
-```
-Intro to Quantity Measurement App
-```
-🗓️ 18-feb-2026 (Wednesday):[Github Link](https://github.com/Gauravman96/QuantityMeasurementApp)
-```
-Solved Feet Measurement Quality (feature/UC1 -FeetMeasurementEquality)
-```
-🗓️ 19-feb-2026 (Thursday):[Github Link](https://github.com/Gauravman96/QuantityMeasurementApp)
-```
-Generic Quantity Class for DRY Principle
-(feature/UC3-GenericQuantityClassForDRYPrinciple)
-Extended Unit Support
-(feature/UC4-Extended Unit Support)
-```
- 🗓️ 19-feb-2026 (Friday):[GitHub Link](https://github.com/Gauravman96/BridgeLabz-Training/tree/oops-practice/oops-practice)
- ```
-solved a scenario based probelm" Smart Traffic Fine Collection System"
-```
-🗓️ 21-feb-2026 (Saturday):[Github Link]()
-```
-solved some Scenario and posted a Weight Measurement
-(feature/UC9-Weight-Measurement)"
-```
-
 
 
 
