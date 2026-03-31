@@ -1,0 +1,5 @@
+# Created at 2026-01-30T15:00:49.848
+Boot Manifest-JAR contains absolute paths in classpath 'D:\BridgeLabz-Training\collections-practice\gcr-codebase\junit-practice\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

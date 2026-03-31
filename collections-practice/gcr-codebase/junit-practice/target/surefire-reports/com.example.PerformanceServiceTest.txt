@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: com.example.PerformanceServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.039 s <<< FAILURE! -- in com.example.PerformanceServiceTest
+com.example.PerformanceServiceTest.testPerformanceTimeout -- Time elapsed: 2.033 s <<< ERROR!
+java.util.concurrent.TimeoutException: testPerformanceTimeout() timed out after 2 seconds
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	Suppressed: java.lang.InterruptedException: sleep interrupted
+		at java.base/java.lang.Thread.sleepNanos0(Native Method)
+		at java.base/java.lang.Thread.sleepNanos(Thread.java:482)
+		at java.base/java.lang.Thread.sleep(Thread.java:513)
+		at com.example.PerformanceService.longRunningTask(PerformanceService.java:6)
+		at com.example.PerformanceServiceTest.testPerformanceTimeout(PerformanceServiceTest.java:15)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+		... 2 more
+
